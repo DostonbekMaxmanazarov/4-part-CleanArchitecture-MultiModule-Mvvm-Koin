@@ -3,6 +3,9 @@ Project: This project is simply a user authorization project". Contained: Recomm
 
 > *Siz ko'rib turgan projectim clean architecturaning 4-qismi hisoblanadi. Bosqichma bosqich clean architectura texnologiyalarini qo'lagan holda proektlarni kengaytirmoqdaman. Bu qismda dependency injection uchun Koin frameworkidan foydalnilgan.*
 
+<img width="360" height="480" hspace="20" alt="Screen Shot 2023-05-02 at 15 02 13" src="https://user-images.githubusercontent.com/77477995/235638281-48b4323e-e382-4939-825a-b3659a07428b.png"> <img width="360" height="480" hspace="20" alt="Screen Shot 2023-05-14 at 20 49 57" src="https://github.com/DostonbekMaxmanazarov/4-part-CleanArchitecture-MultiModule-Mvvm-Koin/assets/77477995/56e5c817-f9e2-42f6-ac74-09c650f878c8">
+
+
 [Koin](https://insert-koin.io/docs/setup/why) har qanday Kotlin applicationga(Multiplatform, Android, Backend ...) dependency injectionning oson va samarali usulini taqdim etadi. Koin - bu Kotlin-ga asoslangan Android applicationlar uchun lightweight dependency injection frameworkidir. U oddiy dependency injectiondan foydalanish va tushunish oson bo'lishi uchun yaratilgan. Koin yordamida dasturchilar o'zlarining dependencylarini va ularning applicationlarga qanday qilib taqdim etilishi kerakligini sodda va o'qilishi oson bo'lgan tarzda amalga oshirishlari mumkin. Koin shuningdek, runtime dependency injectionni qo'llab-quvvatlaydi.
 Koin Android hamjamiyatida Dagger kabi dependency injection frameworkiga nisbatan sodda va qulayroq, shu sababli tobora ommalashib bormoqda deb o'ylayman. Bu kichik va o'rta projectlar uchun yaxshi tanlov, va Model-View-ViewModel (MVVM) arxitekturasidan foydalanadigan projectlar uchun juda mos keladi.
 Umuman olganda, Koin Kotlin-ga asoslangan Android ilovalaridagi dependencylarni boshqarishning sodda va moslashuvchan usulini taqdim etadi, bu esa dasturchilarga yuqori sifatli projectlarni yaratish va ularga xizmat ko'rsatishni osonlashtiradi.
