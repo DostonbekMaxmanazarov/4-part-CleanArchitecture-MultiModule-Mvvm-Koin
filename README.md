@@ -1,7 +1,7 @@
 # 4-part-CleanArchitecture-MultiModule-Mvvm-Koin
-Project: This project is simply a user authorization project". Contained: Recommended app architecture, MultiModule, Mvvm, Koin(Dependency Injection).
+> Project: This project is simply a user authorization project". Contained: Recommended app architecture, MultiModule, Mvvm, Koin(Dependency Injection).
 
-> *Siz ko'rib turgan projectim clean architecturaning 4-qismi hisoblanadi. Bosqichma bosqich clean architectura texnologiyalarini qo'lagan holda proektlarni kengaytirmoqdaman. Bu qismda dependency injection uchun Koin frameworkidan foydalnilgan.*
+*Siz ko'rib turgan projectim clean architecturaning 4-qismi hisoblanadi. Bosqichma bosqich clean architectura texnologiyalarini qo'lagan holda proektlarni kengaytirmoqdaman. Bu qismda dependency injection uchun Koin frameworkidan foydalnilgan.*
 
 <img width="360" height="520" hspace="20" alt="Screen Shot 2023-05-02 at 15 02 13" src="https://user-images.githubusercontent.com/77477995/235638281-48b4323e-e382-4939-825a-b3659a07428b.png"> <img width="360" height="520" hspace="20" alt="Screen Shot 2023-05-14 at 21 34 15" src="https://github.com/DostonbekMaxmanazarov/4-part-CleanArchitecture-MultiModule-Mvvm-Koin/assets/77477995/b1df93ed-88d7-49c3-a495-347a14a57726">
 
